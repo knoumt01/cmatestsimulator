@@ -1,2 +1,1 @@
-CMA Test Simulator - A simple testing program written in java for my wife's medical assistant certification exam
-CMA Test Simulator - A simple testing program written in java for my wife's medical assistant certification exam
+CMA Test Simulator - A simple testing program written in java for my wife's medical assistant certification exam. Written in java for the console. Needs bug fixes, including type checking on parameter enter for question, etc. Please see Testing Tortuga for CMA (TTCMA) java edition for a gui-based, updated edition.
